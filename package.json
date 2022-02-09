@@ -1,0 +1,18 @@
+{
+  "name": "simple-ui-lib",
+  "version": "1.0.0",
+  "description": "simple lib of react components",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "react": "^17.0.2",
+    "@types/react": "^17.0.39",
+    "typescript": "^4.5.5"
+  }
+}
