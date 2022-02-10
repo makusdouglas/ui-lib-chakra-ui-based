@@ -1,6 +1,9 @@
 # Simple ui-lib based on chakra-ui
 
-This is a POC for a ui-lib react
+This is a POC for a ui-lib react using:
+
+- Storybook for documentation
+- Chakra-ui to serve the basic styles and components
 
 ## Installation
 
