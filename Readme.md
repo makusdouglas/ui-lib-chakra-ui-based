@@ -21,3 +21,6 @@ Install the <code>ui-lib-chakra-ui-based</code>
 ## Usage
 
 This package was made based on the [Chakra-ui](https://chakra-ui.com/docs) component library, follow the initial steps described in the documentation.
+
+npm-package: [ui-lib-chakra-ui-based](https://www.npmjs.com/package/ui-lib-chakra-ui-based)  
+Author: Markus Douglas
