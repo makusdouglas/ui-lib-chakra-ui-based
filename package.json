@@ -1,6 +1,6 @@
 {
   "name": "ui-lib-chakra-ui-based",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "simple lib of react components based on chakra ui",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

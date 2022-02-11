@@ -1,6 +1,8 @@
 node_modules
-src
 tsconfig.json
+
+dist/stories
+.storybook
 
 .github
 __tests__
