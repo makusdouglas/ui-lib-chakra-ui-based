@@ -6,6 +6,7 @@ import {
 } from "@chakra-ui/react";
 const themes = {
   colors: {
+    ...chakraTheme.colors,
     secondary: {
       50: "#FFF5F7",
       100: "#FED7E2",
@@ -35,7 +36,7 @@ const themes = {
 
 const theme = extendTheme(
   themes,
-  withDefaultColorScheme({ colorScheme: "orange" })
+  withDefaultColorScheme({ colorScheme: "zscan" })
 );
 
 export default theme;

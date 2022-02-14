@@ -2,16 +2,14 @@ import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import {ChatIcon} from '@chakra-ui/icons'
 
-import { Button } from '../index';
+import { Button, ButtonProps } from '../../index';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {
-  title: 'Ui-lib/Button',
+  title: 'Ui-lib/Forms/Button',
   component: Button,
   // More on argTypes: https://storybook.js.org/docs/react/api/argtypes
-  argTypes: {
-    // backgroundColor: { control: 'color' },
-  },
+  argTypes: {} as ButtonProps,
 } as ComponentMeta<typeof Button>;
 
 // More on component templates: https://storybook.js.org/docs/react/writing-stories/introduction#using-args
